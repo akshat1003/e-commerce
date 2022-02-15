@@ -1,0 +1,108 @@
+[
+    {
+        "name":"Vivo Y20",
+        "price":"13990",
+        "description":"Vivo Y20 (Obsidian Black, 6GB RAM, 64GB Storage) with No Cost EMI/Additional Exchange Offers",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amamzon",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    }, 
+    {
+        "name":"Apple Airpods",
+        "price":"20000",
+        "description":"Truly wireless",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amamzon",
+        "stock":50, 
+        "numOfReviews":32,
+        "reviews":[]
+    },
+    {
+        "name":"Nuts",
+        "price":"400",
+        "description":"Super Healthy Daily Dose Mixed Nuts, Seeds and Berries - Organic Trail Mix | Dry Fruit Nutmix with Seeds, Berries for Eating | 20+ Varieties like Almonds, Cashews, Cranberries, Pumpkin Seeds (325 gms)",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Food",
+        "seller":"Amamzon",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+     {
+        "name":"Table",
+        "price":"500",
+        "description":"OFIXO Multi-Purpose Laptop Table/Study Table/Bed Table/Foldable and Portable Wooden/Writing Desk (Wooden)",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Accesories",
+        "seller":"Amamzon",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+    {
+        "name":"Fan",
+        "price":"2500",
+        "description":"High speed fan",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amamzon",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+    {
+        "name":"Mixer",
+        "price":"5000",
+        "description":"Best quality Mixer.",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Electronics",
+        "seller":"Amamzon",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    },
+    {
+        "name":"Aata",
+        "price":"290",
+        "description":"Multigrain flour.",
+        "ratings":4.5,
+        "images":[{
+            "public_id":"products/kjfbqerkjfneriofm",
+            "url":".../images/vivo.jpg"
+        }],
+        "category":"Food",
+        "seller":"Amamzon",
+        "stock":50,
+        "numOfReviews":32,
+        "reviews":[]
+    }
+]
+
